@@ -1,0 +1,17 @@
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+main {
+    flex-grow: 1;
+}
+
+.bg-black{
+    background-color: black;
+}
+
+.bg-gray{
+    background-color: rgba(92, 72, 72, 0.205);
+}
